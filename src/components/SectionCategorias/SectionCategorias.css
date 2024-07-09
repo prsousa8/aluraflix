@@ -1,0 +1,6 @@
+.secao-categorias{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 6rem;
+}

@@ -1,0 +1,9 @@
+.titulo{
+    text-align: center;
+    font-size: 48px;
+    font-weight: bolder;
+    color: var(--color-white);
+    max-width: 432px;
+    width: 296px;
+    border-radius: 15px;
+}

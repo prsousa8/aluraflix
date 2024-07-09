@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "Titulo": "O que faz uma desenvolvedora front end",
+        "categoria": "Frontend",
+        "imagem": "./imagens/image1.png",
+        "video": "https...",
+        "descricao": "O que faz uma desenvolvedora front end"
+    },
+    {
+        "id": 2,
+        "Titulo": "Árvores binárias",
+        "categoria": "Frontend",
+        "imagem": "./imagens/image2.png",
+        "video": "https...",
+        "descricao": "Árvores binárias"
+    },
+    {
+        "id": 3,
+        "Titulo": "Implementando UX no Front-End",
+        "categoria": "Frontend",
+        "imagem": "./imagens/image3.png",
+        "video": "https...",
+        "descricao": "Implementando UX no Front-End"
+    },
+    {
+        "id": 4,
+        "Titulo": "Implementando UX no Front-End",
+        "categoria": "Frontend",
+        "imagem": "./imagens/image3.png",
+        "video": "https...",
+        "descricao": "Implementando UX no Front-End"
+    }
+]

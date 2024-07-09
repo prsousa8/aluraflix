@@ -1,0 +1,32 @@
+.banner{
+    display: flex;
+    height: 500px;
+    align-items: center;
+    background-color: var(--color-dark-blue);
+    color: var(--color-white);
+    font-family: var(--font-roboto);
+    margin-bottom: 4rem;
+}
+.banner-content{
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+    margin-inline: 42px;
+}
+.banner-description{
+    min-width: 666px;
+}
+
+h1{
+    font-size: 46px;
+    font-weight: normal;
+}
+
+p{
+    font-size: 18px;
+    font-weight: lighter;
+}
+.banner img{
+    min-width: 646px;
+    min-height: 281px;
+}
