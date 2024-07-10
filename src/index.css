@@ -3,6 +3,7 @@
   --font-source-sans:"Source Sans 3", sans-serif;
 
   --color-dark-grey:#262626;
+  --color-fundo: #191919;
   --color-black:black;
   --color-white: white;
   --color-blue:#2271D1;
@@ -17,7 +18,7 @@ body {
   font-family: var(--font-roboto);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: var(--color-dark-grey);
+  background-color: var(--color-fundo);
 }
 
 code {
